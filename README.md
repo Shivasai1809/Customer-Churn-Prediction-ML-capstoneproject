@@ -35,9 +35,9 @@ Model accuracy: **~79%**
 
 ## Visualizations
 ### Customer Churn Distribution
-![Churn Distribution] (churn_distribution.png)
+![Churn Distribution](churn_distribution.png)
 ### Correlation Heatmap
-![Correlation Heatmap] (correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 ### Feature Importance
 ![Feature Importance](Feature Importance.png)
 ### Confusion Matrix
