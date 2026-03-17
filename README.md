@@ -41,7 +41,7 @@ Model accuracy: **~79%**
 ### Feature Importance
 ![Feature Importance](FeatureImportance.png)
 ### Confusion Matrix
-![Confusion Matrix](ConfusionMatrix.png)
+![Confusion Matrix](RandomForestConfusionMatrix.png)
 
 ## Technologies Used
 * Python
