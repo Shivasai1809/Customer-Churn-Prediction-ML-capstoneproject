@@ -39,9 +39,9 @@ Model accuracy: **~79%**
 ### Correlation Heatmap
 ![Correlation_Heatmap](correlation_heatmap.png)
 ### Feature Importance
-![Feature Importance](Feature Importance.png)
+![Feature Importance](Feature_Importance.png)
 ### Confusion Matrix
-![Confusion Matrix](Random Forest Confusion Matrix.png)
+![Confusion Matrix](Confusion_Matrix.png)
 
 ## Technologies Used
 * Python
