@@ -41,7 +41,7 @@ Model accuracy: **~79%**
 ### Feature Importance
 ![Feature Importance](FeatureImportance.png)
 ### Confusion Matrix
-![Confusion Matrix](Confusion_Matrix.png)
+![Confusion Matrix](ConfusionMatrix.png)
 
 ## Technologies Used
 * Python
