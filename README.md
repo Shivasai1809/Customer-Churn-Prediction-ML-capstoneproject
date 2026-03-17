@@ -39,7 +39,7 @@ Model accuracy: **~79%**
 ### Correlation Heatmap
 ![Correlation_Heatmap](correlation_heatmap.png)
 ### Feature Importance
-![Feature Importance](Feature_Importance.png)
+![Feature Importance](FeatureImportance.png)
 ### Confusion Matrix
 ![Confusion Matrix](Confusion_Matrix.png)
 
